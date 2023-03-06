@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d595c01c.css",
+    "main.js": "/static/js/main.886006f2.js",
+    "static/media/Taman Addrienta.mp4": "/static/media/Taman Addrienta.967989229383514083bc.mp4",
+    "static/media/DSCF3372.JPG": "/static/media/DSCF3372.2d3f5e03f86ff998d310.JPG",
+    "static/media/DSCF3403.JPG": "/static/media/DSCF3403.d9a13dde946544bc75b3.JPG",
+    "static/media/vila1.jpg": "/static/media/vila1.d8e5f61154194475fcdb.jpg",
+    "static/media/peternakan.jpg": "/static/media/peternakan.f554ce63e23e353c7d12.jpg",
+    "index.html": "/index.html",
+    "main.d595c01c.css.map": "/static/css/main.d595c01c.css.map",
+    "main.886006f2.js.map": "/static/js/main.886006f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d595c01c.css",
+    "static/js/main.886006f2.js"
+  ]
+}
